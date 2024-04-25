@@ -1,0 +1,14 @@
+Structure variables are allocated their own memory.
+Union variables are not allocated their own memory. The largest sized variable is allocated memory.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Polymorphism is of 2 types -
+1) Compile-time (Static/Early Binding) Polymorphism - Achieved by Overloading
+2) Runtime (Dynamic/Late Binding) Polymorphism - Achieved by Overriding
+
+Functions with the same name in the same class is called Function Overloading (Compile Time).
+Functions with the same name in different classes is called Function Overriding (Runtime).
+
+-------------------------------------------------------------------------------------------------------------------------
+
